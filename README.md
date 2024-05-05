@@ -1,2 +1,2 @@
 # third-template-try
-css $ ht
+HTML & CSS only
